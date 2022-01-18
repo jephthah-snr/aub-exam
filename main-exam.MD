@@ -1,6 +1,6 @@
-African UNiversity of Benin
-first semester examination
-300L 2022 jan 18
+**African UNiversity of Benin**
+_first semester examination_
+_300L 2022 jan 18_
 
 
 
@@ -20,13 +20,13 @@ your database model should have the following fields
 4. all data inthe databse must be gotten from ModelNAme.objects.all()
 
 
-views
+**views**
 
 use function based views for all your views
 
 
 
-form(optional)
+**form(optional)**
 
 you can read the django documentation and imlemment for views
 
@@ -39,7 +39,7 @@ Google is a tool and i expect you to search for solution to your problrms and no
 i have an algorithm to check and kmow if code was copied from the intetnet so mind you if such is detected i would commit you code as null and void
 
 
-*how to submit*
+**how to submit**
 
 you are required to pudh your code to your guthub ccount using git
 
@@ -61,7 +61,7 @@ you file will be aded to your github repo sucessfully.
 write the iink to your repo in your exam paper and submit it.
 
 
-code snippets have been provided for you (here [https://github.com/jephthah-snr/aub-exam-snippets.git]) the contain html / css/ js files for your consumption.
+code snippets have been provided for you [here] (ttps://github.com/jephthah-snr/aub-exam-snippets.git) the contain html / css/ js files for your consumption.
 
 
 
@@ -69,7 +69,7 @@ good luck and see you at the other side.
 
 
 
-django requirements. you can add these to a req.txt file and run "pip install -r req.txt"
+*django requirements. you can add these to a req.txt file and run "pip install -r req.txt"*
 
 asgiref==3.4.1
 dj-database-url==0.5.0
